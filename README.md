@@ -4,6 +4,7 @@ Incognito_project
 
 ### 1. 환경 변수 설정
 `.env` 파일을 생성하고 아래 내용을 입력하세요.
+
 `GEMINI_API_KEY=your_api_key_here`
 
 ### 2. Docker를 이용한 실행
